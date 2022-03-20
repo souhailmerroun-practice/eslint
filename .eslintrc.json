@@ -8,5 +8,15 @@
         "ecmaVersion": "latest"
     },
     "rules": {
+        //https://eslint.org/docs/rules/semi
+        "semi": [
+            "error",
+            "always"
+        ],
+        //https://eslint.org/docs/rules/quotes
+        "quotes": [
+            "error",
+            "double"
+        ]
     }
 }
