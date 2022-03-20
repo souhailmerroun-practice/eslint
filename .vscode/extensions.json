@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "wakatime.vscode-wakatime",
-        "dbaeumer.vscode-eslint"
+        "dbaeumer.vscode-eslint",
+        "redhat.vscode-yaml"
     ]
 }
